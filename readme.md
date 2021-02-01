@@ -10,6 +10,6 @@ Gemüse auf dem Balkon züchten
 
 Auch mit wenig Platz lassen sich Salat und Gemüse selbst anziehen und automatisch im geschlossenen Kreislauf bewässern. Mit Teilen aus dem Baumarkt und einem ESP32 als Steuerung ist diese Anlage schnell gebaut und individuell anpassbar.
 
-![Picture](https://github.com/MakeMagazinDE/Hydrokultur/blob/master/Hydrokultur.JPG)
+![Picture](https://github.com/MakeMagazinDE/Hydrokultur/blob/master/Hydrokultur.jpg)
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2021](https://www.heise.de/select/make/2021/1/seite-36 zu lesen. 
