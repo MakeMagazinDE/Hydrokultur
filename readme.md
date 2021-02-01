@@ -12,4 +12,4 @@ Auch mit wenig Platz lassen sich Salat und Gemüse selbst anziehen und automatis
 
 ![Picture](https://github.com/MakeMagazinDE/Hydrokultur/blob/master/Hydrokultur.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2021](https://www.heise.de/select/make/2021/1/seite-36 zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2021](https://www.heise.de/select/make/2021/1/seite-36) zu lesen. 
