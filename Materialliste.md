@@ -53,8 +53,3 @@
 - [ ] 1× Navigationsschalter 5 Richtungen
 - [ ] 5m Lautsprecherkabel zum Anschluss der Solarzelle/Batterie
 - [ ] 8× Crimp Kabelschuhe und Flachstecker
-
-## Werkzeuge
-- [ ] 
-- [ ] 
-- [ ] 
