@@ -25,6 +25,7 @@ time_t now;
 double time_now; //Zeitpunkt jetzt
 double time_p=0; //Zeitpunkt letztes Pumpen
 double time_m=0; // Zeitpunkt letztes messen
+double time_b=0;
 int lastday=0;
 
 bool pON=false; // Pumpe an
@@ -245,7 +246,7 @@ void loop() {
           digitalWrite(led, LOW);
           digitalWrite(pumpe, LOW);
           
-            if (temp<=10) {intervall=360;}
+            if (temp<=10) {intervall=240*60;}
             else if (temp>10 && temp<=15) {intervall=180*60;}
             else if (temp>15 && temp<=20) {intervall=120*60;}
             else if (temp>20 && temp<=25) {intervall=90*60;}
